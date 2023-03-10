@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarinaRinna
-- 👀 I’m interested  in creating games 
+- 👀 I’m interested  in creating games
 - 🌱 I’m currently learning course programming Python and Django.
 
 
