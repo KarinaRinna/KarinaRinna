@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarinaRinna
 - 👀 I’m interested  in creating games
-- 🌱 I’m currently Bootstrap!d
+- 🌱 I’m currently Pygame
 
 
 <!---
