@@ -4,6 +4,7 @@
 - 🤩 I'm started learning docker 
 - 🧐 You can see the code of my applications and games in the repository
 - 🧑‍💻 In the future i want to get a job in IT company and create many useful apps/games
+- https://www.codewars.com/users/KarinaRinna/badges/large
 
 
 #I got sick after my vacation and am still programming on my phone😥
