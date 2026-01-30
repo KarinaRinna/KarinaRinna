@@ -7,4 +7,4 @@
 - https://www.codewars.com/users/KarinaRinna/badges/large
 
 
-#I got sick after my vacation and am still programming on my phone😥
+# I came back after a short break.
